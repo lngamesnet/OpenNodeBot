@@ -8,7 +8,7 @@ Check your OpenNode Balances with command.
 
 -Create a [READ_ONLY API key](https://developers.opennode.co/docs) for your OpenNode account.
 
--Download the NodeJs OpenNodeBot.js script and change YOUR_OPENNODE_READONLY_API_KEY, YOUR_TELEGRAM_BOT_TOKEN and YOUR_TELEGRAM_USER_ID for yours.
+-Download the NodeJs OpenNodeBot.js script and change YOUR_OPENNODE_READONLY_API_KEY, YOUR_TELEGRAM_BOT_TOKEN and YOUR_TELEGRAM_USER_ID values.
 
 -Install dependencies: [OpenNode Node.js Library](https://github.com/opennodedev/opennode-node) and [Node.js Telegram Bot API](https://github.com/yagop/node-telegram-bot-api)
 
